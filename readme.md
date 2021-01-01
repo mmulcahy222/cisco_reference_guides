@@ -31,6 +31,10 @@ In doing so, I wanted to do something more elaborate with this base NETCONF clas
 
 I used a function in another repo (Helper_Functions) to parse the NETCONF into a text layout that makes the XML infinitely easier to read in a high level view. It gives the path of each XML value & leaf, to easily imagine what is in the resulting XML, which makes NETCONF more practically useful, and more helpful to understand the Network Device. This was done for the top level NETCONF Yang Models.
 
+WEBSITE
+
+[NETCONF](https://mmulcahy222.github.io/netconf.html)
+
 ![](images/netconf_native.png)
 
 Also, I made a separate table in the bottom of the page to list which Yang Models returned the largest XML files, to get a higher-level view of the data in the network device.
