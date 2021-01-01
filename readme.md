@@ -6,9 +6,9 @@ I made two configuration guides that shows only the commands so I can get a clea
 
 The two web pages are for:
 
-Cisco CSR1000v
+[Cisco CSR1000v](https://mmulcahy222.github.io/configuration_csr_1000v.html)
 
-Cisco NEXUS Data Center & MDS Storage Switches
+[Cisco NEXUS Data Center & MDS Storage Switches](https://mmulcahy222.github.io/netconf.html)
 
 ![](images/csr_1000v.png)
 
